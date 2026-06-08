@@ -1,6 +1,6 @@
 package edu.emerson.tema.tiposvariaveis;
 
-public class TiposVariaveis {
+public class TiposVariates {
 
     public static void main(String[] args) throws Exception{
         byte idade = 123;
@@ -9,6 +9,6 @@ public class TiposVariaveis {
         long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo
         float pi = 3.14F;
         double salario = 1275.33;
-        String meuNome = "Emerson Rodrigues" // representa texto na aplicaçao
+        String meuNome = "Emerson Rodrigues"; // representa texto na aplicaçao
     }
 }
