@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.terminaArgumentos;
+package edu.emerson.temaestudados.sintaxe.terminaArgumentos;
 
 import java.util.Locale;
 import java.util.Scanner;

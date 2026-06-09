@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.tiposVariaveis;
+package edu.emerson.temaestudados.sintaxe.tiposVariaveis;
 
 public class ExemploVariavel {
     public static void main(String[] args) {

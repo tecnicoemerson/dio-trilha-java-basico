@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.desafioContaBanco;
+package desafios.desafioContaBanco;
 
 import java.util.Locale;
 import java.util.Scanner;

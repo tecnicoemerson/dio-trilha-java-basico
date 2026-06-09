@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.anatomiaClasses;
+package edu.emerson.temaestudados.sintaxe.anatomiaClasses;
 
 //aula 4
 public class BoletimEstudantil {

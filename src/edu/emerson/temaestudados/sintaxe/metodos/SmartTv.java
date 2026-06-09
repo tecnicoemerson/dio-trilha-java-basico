@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.metodos;
+package edu.emerson.temaestudados.sintaxe.metodos;
 
 public class SmartTv {
     boolean ligada;

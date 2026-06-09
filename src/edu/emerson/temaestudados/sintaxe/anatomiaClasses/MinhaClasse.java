@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.anatomiaClasses;
+package edu.emerson.temaestudados.sintaxe.anatomiaClasses;
 
 //aula 3
 public class MinhaClasse {

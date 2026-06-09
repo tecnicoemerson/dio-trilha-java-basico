@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.operadores;
+package edu.emerson.temaestudados.sintaxe.operadores;
 
 public class Relacionais {
     public static void main (String[] args){
