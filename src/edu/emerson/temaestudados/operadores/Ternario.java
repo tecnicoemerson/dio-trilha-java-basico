@@ -1,4 +1,4 @@
-package edu.emerson.tema.operadores;
+package edu.emerson.temaestudados.operadores;
 
 public class Ternario {
     public static void main (String[] args){

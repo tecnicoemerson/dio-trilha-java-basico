@@ -1,4 +1,4 @@
-package edu.emerson.tema.metodos;
+package edu.emerson.temaestudados.metodos;
 public class Usuario {
     public static void main( String[] args) throws Exception{
 

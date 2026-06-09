@@ -1,4 +1,4 @@
-package edu.emerson.tema.escopo;
+package edu.emerson.temaestudados.escopo;
 
 public class Conta {
     //variavel da classe conta

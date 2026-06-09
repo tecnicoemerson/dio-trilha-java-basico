@@ -1,4 +1,4 @@
-package edu.emerson.tema.tiposvariaveis;
+package edu.emerson.temaestudados.tiposVariaveis;
 
 public class TiposVariates {
 
