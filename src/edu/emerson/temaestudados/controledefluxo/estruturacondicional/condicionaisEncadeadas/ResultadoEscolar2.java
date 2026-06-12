@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.estruturacondicional.condicionaisEncadeadas;
+package edu.emerson.temaestudados.controledefluxo.estruturacondicional.condicionaisEncadeadas;
 
 public class ResultadoEscolar2 {
     public static void main(String[] args) {

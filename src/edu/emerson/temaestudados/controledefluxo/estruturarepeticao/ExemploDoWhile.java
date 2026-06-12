@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.estruturarepeticao;
+package edu.emerson.temaestudados.controledefluxo.estruturarepeticao;
 
 import java.util.Random;
 public class ExemploDoWhile {

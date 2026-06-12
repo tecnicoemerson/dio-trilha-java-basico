@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.estruturarepeticao;
+package edu.emerson.temaestudados.controledefluxo.estruturarepeticao;
 
 // Exemplo Break e Continue
 public class ExemploBreakContinue {

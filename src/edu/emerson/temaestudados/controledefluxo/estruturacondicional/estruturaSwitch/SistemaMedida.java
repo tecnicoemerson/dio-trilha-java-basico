@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.estruturacondicional.estruturaSwitch;
+package edu.emerson.temaestudados.controledefluxo.estruturacondicional.estruturaSwitch;
 
 // SistemaMedida.java
 

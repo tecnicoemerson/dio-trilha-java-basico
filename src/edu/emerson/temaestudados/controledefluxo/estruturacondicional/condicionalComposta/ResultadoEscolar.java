@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.estruturacondicional.condicionalComposta;
+package edu.emerson.temaestudados.controledefluxo.estruturacondicional.condicionalComposta;
 
 public class ResultadoEscolar {
     public static void main(String[] args) {

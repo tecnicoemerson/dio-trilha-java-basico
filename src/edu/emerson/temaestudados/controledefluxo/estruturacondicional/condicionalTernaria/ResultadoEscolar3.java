@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.estruturacondicional.condicionalTernaria;
+package edu.emerson.temaestudados.controledefluxo.estruturacondicional.condicionalTernaria;
 
 public class ResultadoEscolar3 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.estruturacondicional.condicionalSimples;
+package edu.emerson.temaestudados.controledefluxo.estruturacondicional.condicionalSimples;
 
 public class CaixaEletronico {
     public static void main(String[] args) {
