@@ -7,10 +7,13 @@ public class SistemaIbge {
         for(EstadoBrasileiro uf: EstadoBrasileiro.values() ) {
             System.out.println(uf.getSigla() + "-" + uf.getNomeMaiusculo());
         }
-
+        System.out.println();
         //selecionando um estado a partir das opções disponíveis
         EstadoBrasileiro ufSelecionado = EstadoBrasileiro.PIAUI;
 
         System.out.println("O estado selecionado foi: " + ufSelecionado.getNome());
+        System.out.println(ufSelecionado.getSigla());
+        System.out.println(ufSelecionado.getNomeMaiusculo());
+        System.out.println(ufSelecionado.getIbge());
     }
 }
