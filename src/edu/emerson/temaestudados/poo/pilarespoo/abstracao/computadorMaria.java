@@ -14,7 +14,7 @@ public class computadorMaria {
         fcb.receberMensagem();
 
         System.out.println();
-        System.out.println("Telegram3");
+        System.out.println("Telegram4");
         Telegram3 tlg = new Telegram3();
         tlg.enviarMensagem();
         tlg.receberMensagem();
