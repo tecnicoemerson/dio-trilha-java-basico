@@ -1,21 +1,21 @@
-package edu.emerson.temaestudados.poo.pilarespoo.heranca;
+package edu.emerson.temaestudados.poo.pilarespoo.abstracao;
 
-public class computadorTiago {
+public class computadorMaria {
     public static void main(String[] args){
         System.out.println("MSN");
-        MSNMessenger2 msn2 = new MSNMessenger2();
+        MSNMessenger3 msn2 = new MSNMessenger3();
         msn2.enviarMensagem();
         msn2.receberMensagem();
 
         System.out.println();
         System.out.println("Facebook");
-        FacebookMessenger fcb = new FacebookMessenger();
+        FacebookMessenger3 fcb = new FacebookMessenger3();
         fcb.enviarMensagem();
         fcb.receberMensagem();
 
         System.out.println();
         System.out.println("Telegram3");
-        Telegram tlg = new Telegram();
+        Telegram3 tlg = new Telegram3();
         tlg.enviarMensagem();
         tlg.receberMensagem();
     }
