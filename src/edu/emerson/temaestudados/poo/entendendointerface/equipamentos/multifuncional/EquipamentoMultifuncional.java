@@ -1,8 +1,8 @@
-package edu.emerson.temaestudados.poo.pilarespoo.entendendointerface.equipamentos.multifuncional;
+package edu.emerson.temaestudados.poo.entendendointerface.equipamentos.multifuncional;
 
-import edu.emerson.temaestudados.poo.pilarespoo.entendendointerface.equipamentos.copiadora.Copiadora;
-import edu.emerson.temaestudados.poo.pilarespoo.entendendointerface.equipamentos.digitalizadora.Digitalizadora;
-import edu.emerson.temaestudados.poo.pilarespoo.entendendointerface.equipamentos.impressora.Impressora;
+import edu.emerson.temaestudados.poo.entendendointerface.equipamentos.copiadora.Copiadora;
+import edu.emerson.temaestudados.poo.entendendointerface.equipamentos.digitalizadora.Digitalizadora;
+import edu.emerson.temaestudados.poo.entendendointerface.equipamentos.impressora.Impressora;
 
 public class EquipamentoMultifuncional implements Copiadora, Impressora, Digitalizadora {
     @Override

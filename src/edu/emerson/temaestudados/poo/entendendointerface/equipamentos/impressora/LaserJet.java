@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.poo.pilarespoo.entendendointerface.equipamentos.impressora;
+package edu.emerson.temaestudados.poo.entendendointerface.equipamentos.impressora;
 
 public class LaserJet implements Impressora {
     public void imprimir() {

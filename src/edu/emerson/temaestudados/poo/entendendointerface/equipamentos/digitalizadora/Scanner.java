@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.poo.pilarespoo.entendendointerface.equipamentos.digitalizadora;
+package edu.emerson.temaestudados.poo.entendendointerface.equipamentos.digitalizadora;
 
 public class Scanner implements Digitalizadora {
     public void digitalizar() {

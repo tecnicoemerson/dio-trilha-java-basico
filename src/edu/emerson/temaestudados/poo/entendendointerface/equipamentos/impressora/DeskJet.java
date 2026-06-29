@@ -1,4 +1,4 @@
-package edu.emerson.temaestudados.poo.pilarespoo.entendendointerface.equipamentos.impressora;
+package edu.emerson.temaestudados.poo.entendendointerface.equipamentos.impressora;
 
 public class DeskJet implements Impressora {
     public void imprimir() {
